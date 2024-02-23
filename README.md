@@ -7,7 +7,7 @@
 ###### Initial steps involve loading cryptocurrency market data into a DataFrame and performing necessary preprocessing steps such as normalization.
 
 ##### Optimizing Clusters with Elbow Method:
-###### The elbow method is employed to determine the optimal number of clusters (k) based on the original scaled data, facilitating effective segmentation.
+###### The elbow method is utilized to determine the optimal number of clusters (k) based on the original scaled data, facilitating effective segmentation.
 
 ##### Cluster Analysis with Original Scaled Data:
 ###### Cryptocurrencies are grouped into clusters based on their price change percentages over different time intervals, providing insights into market trends and behavior.
